@@ -1,0 +1,16 @@
+[
+    {
+        "name": "CeraVe Facial Moisturising Lotion  Spf 25 (Facial Moisturising Lotion Am Spf 25)",
+        "risk": "low",
+        "high": [],
+        "med": [],
+        "image": ""
+    },
+    {
+        "name": "CeraVe Facial Moisturising Lotion Spf 25 (AM Facial Moisturising Lotion SPF 25)",
+        "risk": "low",
+        "high": [],
+        "med": [],
+        "image": ""
+    }
+]
